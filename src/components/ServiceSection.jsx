@@ -94,10 +94,10 @@ const ServiceSection = () => {
   return (
     <section id="services-section" className="relative bg-white text-black w-full min-h-screen py-16 md:py-32 font-inter overflow-hidden">
 
-      {/* Big PROJECTS Header */}
-      <div className="w-full flex justify-center md:justify-end px-4 md:px-0 md:pr-16 mb-12 md:mb-32 overflow-hidden pointer-events-none">
-        <h2 className="text-[14vw] md:text-[20vw] font-black uppercase leading-[0.75] tracking-tighter text-[#1a1a1a] select-none whitespace-nowrap text-center md:text-right">
-          PROJECTS
+      {/* Big SERVICES Header */}
+      <div className="w-full flex justify-center md:justify-end px-4 md:px-0 md:pr-16 mb-12 md:mb-24 overflow-hidden pointer-events-none">
+        <h2 className="text-[14vw] md:text-[10vw] font-black uppercase leading-[0.85] tracking-tighter text-[#1a1a1a] select-none whitespace-nowrap text-center md:text-right">
+          SERVICES
         </h2>
       </div>
 
