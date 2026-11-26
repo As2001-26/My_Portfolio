@@ -184,7 +184,7 @@ const HeroSection = ({ preloaderDone }) => {
       </div>
 
       {/* Left side info */}
-      <div className="hero-text-anim absolute left-[152px] md:left-24 bottom-20 md:bottom-10 z-20 flex flex-col gap-1.5 md:gap-2">
+      <div className="hero-text-anim absolute left-[188px] md:left-24 bottom-20 md:bottom-10 z-20 flex flex-col gap-1.5 md:gap-2 whitespace-nowrap">
         <p className="text-[10px] font-bold uppercase tracking-[0.25em] text-gray-500">Web Developer</p>
         <p className="text-[10px] font-bold uppercase tracking-[0.25em] text-gray-400">Interactive & Modern</p>
         <div className="flex items-center gap-1.5 md:gap-2 mt-0.5 md:mt-1">
